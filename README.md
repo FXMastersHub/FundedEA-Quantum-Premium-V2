@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a80cd8b6-5300-4308-b222-e2db48f1fbc5)![image](https://github.com/user-attachments/assets/a80cd8b6-5300-4308-b222-e2db48f1fbc5)# <a href="https://forextoolstore.com/product/fundedea-quantum-premium-v2/">FundedEA Quantum Premium V2</a>
+# <a href="https://forextoolstore.com/product/fundedea-quantum-premium-v2/">FundedEA Quantum Premium V2</a>
 
 ![image](https://github.com/user-attachments/assets/b934764b-a0f2-4f8c-bf34-0e7ca916da2e)
 
