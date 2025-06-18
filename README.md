@@ -8,55 +8,53 @@
 <hr>
 <br>
 
-Titany X Pro (sometimes called Titany X Pro(P)) is an AI-powered Expert Advisor (EA) for MetaTrader 4. It automates forex trades on a 15‑minute chart, aiming to generate passive income even when you’re not watching the screen
+FundedEA Quantum Premium V2 is an AI-powered Expert Advisor for MetaTrader 4. It’s built to help traders pass prop‑firm challenges like FTMO, MyForexFunds, and The5ers—and manage funded accounts automatically with minimal manual effort 
 
 ## 💱 Currency Pair / Timeframe / Platform
 
-- Pairs: Best on major forex pairs: EUR/USD, USD/CHF, AUD/CAD, EUR/AUD, AUD/USD (and works with others)
-- Timeframe: M15 (15-minute) setup
-- Platform: Designed specifically for MetaTrader 4 (MT4)
+- Pairs: Optimized for Gold (XAU/USD), US30 (Dow Jones), and Bitcoin (BTC/USD)
+- Timeframes: Works best on M5, M15, M30, and H1 charts
+- Platform: Compatible with MetaTrader 4, with no DLL required
 
 ## ✨ Highlights
 
-- Fully automatic AI trading, 24/7
-- No risky grid or Martingale – smart risk control instead
-- Tailored for prop‑firm challenge success (e.g., FTMO) with ~97% success claim
-- Low time commitment: 15–25 minutes daily
+- AI-driven Quantum Engine adapts daily to market conditions
+- Fully automated and compliant with top prop-firm rules
+- Unlimited multi-account use under one license
+- Proven live results: e.g. +10.32% gain with 1.72% drawdown on $200K challenge
 
 ## ⚙️ Settings / Features
 
-- Pre‑set for M15 trades on recommended pairs
-- Advanced risk management (e.g. 9% equity stop‑loss cap)
-- Allows max two simultaneous trades
-- Designed without DLLs for secure MT4 usage
-- Includes support: Telegram, email, Facebook
+- Includes preset files (set-files) tailored to different symbols and account sizes
+- Quick, plug-and-play setup: install the EA, apply the correct preset, and go in 1–2 minutes
+- Built‑in risk controls: stop-loss, take-profit, equity protection, and trade filters
+- No risky methods: no Martingale, grid, or HFT—only single controlled trades
 
 ## 🔄 How It Works
 
-- AI scans real-time market data on selected pairs
-- Identifies entry and exit points
-- Applies tight risk controls (stop-loss on equity)
-- Opens up to two trades automatically
-- Manages positions dynamically even during news events
+- AI-driven Quantum Engine monitors price data for XAU/USD, US30, BTC/USD
+- Opens single trades with defined SL & TP based on market conditions
+- Automatically adjusts trade sizes and timing within prop-firm limits
+- Updates parameters daily to stay aligned with market changes
+- Manages risk tightly, halting trading when drawdown thresholds are hit
 
 ## 🎯 Key Benefits
 
-- Helps traders pass prop‑firm evaluation with structured, disciplined automation
-- Removes emotional bias—decisions driven purely by code
-- Saves time—trade while maintaining a full-time job
-- Avoids aggressive strategies, focusing on sustained equity growth
+- Proven performance: live verified gains like +10.38% monthly with under 2.5% drawdown
+- Risk-aware design: keeps drawdown low to satisfy prop-firm rules
+- Hands-off automation: no chart-watching; daily preset updates are enough
+- Scalable trading: add more accounts easily as your capital grows
 
 ## ✅ Why Choose
 
-- Passive income: automated 24/7 profits
-- Safe trading: anti‑Martingale with real risk limits
-- Prop‑firm friendly: improves odds to manage funded accounts
-- User‑friendly: set & forget—just brief daily check-ins
-- Verified results: live MyfxBook shows solid gains (e.g. +16.7%, max drawdown 9%)
+- Designed specifically to help traders pass prop-firm tests and handle funded accounts
+- AI logic replaces emotion, adding precision and discipline
+- Beginner-friendly: no coding skills needed, simple setup, ready presets
+- Multi-account scaling: manage many accounts under one purchase
 
 ## 💡 Conclusion
 
-Titany X Pro EA is a well‑rounded automated tool for MT4 traders, especially those aiming at prop‑firm success. Its AI‑driven, cautious approach makes it beginner‑friendly, time‑efficient, and effective. As with any EA, real trading involves risk—so demo testing and clear risk planning are key before going live.
+FundedEA Quantum Premium V2 is a powerful, adaptable, and user-friendly MT4 EA, ideal for traders targeting funded account challenges. With AI, preset strategies for major instruments, and strong risk controls, it’s a solid choice for disciplined and automated growth. As always, start with a demo, follow risk rules, and adjust presets to your account size.
 
 <hr>
 
